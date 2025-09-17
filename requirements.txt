@@ -1,0 +1,12 @@
+pymupdf 
+pytesseract 
+pytesseract
+pymupdf
+opencv-python
+transformers
+torch
+langchain
+faiss-cpu
+regex
+streamlit
+langchain-community
